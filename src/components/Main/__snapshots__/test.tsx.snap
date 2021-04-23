@@ -1,40 +1,119 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
+.c0 {
+  background-color: #81d6fa;
+  color: #000;
+  width: 100%;
+  height: 100%;
+  padding: 3rem;
+  text-aling: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c1 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c2 {
+  width: 12rem;
+  margin-bottom: 2rem;
+}
+
+.c3 {
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c4 {
+  font-size: 5rem;
+  padding: 0rem 0rem 0rem 1.5rem;
+}
+
+.c5 {
+  padding-left: 1.5rem;
+  font-size: 1.1rem;
+  color: green;
+}
+
+.c6 {
+  font-size: 2rem;
+  font-weight: 420;
+}
+
+.c7 {
+  margin-top: 3rem;
+  width: min(40rem,100%);
+}
+
 <main
-  class="styles__Wrapper-dzx1ao-0 bpsxWF"
+  class="c0"
 >
   <div
-    class="styles__ContainerLogo-dzx1ao-1 bColco"
+    class="c1"
   >
     <img
       alt="Imagem de um átomo e React Avançado escrito ao lado."
-      class="styles__Logo-dzx1ao-2 goBltc"
+      class="c2"
       src="/img/atomo_react.svg"
     />
     <div
-      class="styles__LogoWrapper-dzx1ao-3 dtffgl"
+      class="c3"
     >
       <h1
-        class="styles__Title-dzx1ao-4 dWLGax"
+        class="c4"
       >
         Boilerplate React
       </h1>
       <h6
-        class="styles__Author-dzx1ao-5 jtTJyt"
+        class="c5"
       >
         Create by: Thiago Borges Siqueira
       </h6>
     </div>
   </div>
   <h2
-    class="styles__Description-dzx1ao-6 bOCUFR"
+    class="c6"
   >
     TypeScript, ReactJS e Styled Components
   </h2>
   <img
     alt="Um desenvolvedor de frente para uma tela com código"
-    class="styles__Illustration-dzx1ao-7 hOAZYT"
+    class="c7"
     src="/img/developer.jpeg"
   />
 </main>
