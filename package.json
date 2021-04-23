@@ -15,7 +15,7 @@
   "lint-staged": {
     "src/**/*": [
       "yarn lint --fix",
-      "yarn test --findRelatedTests boilerplate_react_ts/src/stories/* --bail"
+      "yarn test --findRelatedTests * --bail"
     ]
   },
   "dependencies": {
