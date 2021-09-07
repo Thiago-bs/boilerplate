@@ -1,0 +1,21 @@
+{
+  "name": "Template Maroto",
+  "short_name": "Template",
+  "icon": [
+    {
+      "src": "/img/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#81d6fa",
+  "description": "Template utilizando TypeScript, ReactJS e Styled Components",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#81d6fa"
+}
