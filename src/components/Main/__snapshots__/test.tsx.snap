@@ -97,12 +97,13 @@ exports[`<Main /> should render the heading 1`] = `
       <h1
         class="c4"
       >
-        Boilerplate React
+        Template Maroto
       </h1>
       <h6
         class="c5"
       >
-        Create by: Thiago Borges Siqueira
+        Create by: 
+        Thiago
       </h6>
     </div>
   </div>
