@@ -2,7 +2,7 @@
 
 ## ***In this repository has the best pratices for struct in react, maybe I will use this a lot on the future!***
 
-### *** Technologies thatI used here:***
+### *** Technologies that I used here:***
 1. TypeScript in NextJS
 2. Husky e Lint-Staged
 3. Jest com TypeScript
